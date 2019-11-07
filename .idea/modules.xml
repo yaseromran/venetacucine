@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/vnetacucinegitub.iml" filepath="$PROJECT_DIR$/.idea/vnetacucinegitub.iml" />
+      <module fileurl="file://D://VenetaCucine/../../venetacucine/.idea/vnetacucinegitub.iml" filepath="D://VenetaCucine/../../venetacucine/.idea/vnetacucinegitub.iml" />
     </modules>
   </component>
 </project>

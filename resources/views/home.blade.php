@@ -9,7 +9,7 @@
                         <div class="uk-width-1-1 uk-first-column">
                             <div class="main-visual__content">
                                 <a>
-                                    <div class="main-visual__media main-visual__media_image uk-background-cover" data-visual-video-placeholder="" data-src="/cache/media/2019/04/venetacucine_caranto_video_3583.jpg/9e515da327984321caafa5fc7a59ce31.jpg" data-srcset="/cache/media/2019/04/venetacucine_caranto_video_3583.jpg/7f56729a4fe1d48720807ea32eddbbc2.jpg 768w, /cache/media/2019/04/venetacucine_caranto_video_3583.jpg/5a6be9a4d7d7a92f8088d5708004feb2.jpg 1200w, /cache/media/2019/04/venetacucine_caranto_video_3583.jpg/a21c6d0641264bd6c4d0c1207940409d.jpg 1920w" data-sizes="(min-width: 1920px) 1920px, (min-width: 1200px) 1200px, 100vw" uk-img="" style="background-image: url(&quot;https://www.venetacucine.com/cache/media/2019/04/venetacucine_caranto_video_3583.jpg/5a6be9a4d7d7a92f8088d5708004feb2.jpg&quot;);">
+                                    <div class="main-visual__media main-visual__media_image uk-background-cover" data-visual-video-placeholder="" data-src="resources/image/image11.jpg" data-srcset="resources/image/image11.jpg" data-sizes="(min-width: 1920px) 1920px, (min-width: 1200px) 1200px, 100vw" uk-img="" style="height: 100vh">
                                     </div>
                                 </a>
                                 <div id="visual-video" class="main-visual__media main-visual__media_iframe uk-cover-container" data-visual-video="">

@@ -103,5 +103,5 @@ setTimeout(function(){
 			$("#2info_li2").addClass("active");
 		}
 	});
-	$("#videoPlay_btn").click();
+	// $("#videoPlay_btn").click();
 }, 1000);

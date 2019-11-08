@@ -16,3 +16,5 @@ Route::get('/', "homeController@home");
 Route::get('/kitchens', "kitchensController@kitchens");
 
 Route::get('/living', "livingController@living");
+
+Route::get('/project-at-s-house', "projectatshouseController@projectatshouse");

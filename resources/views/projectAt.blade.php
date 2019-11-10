@@ -3,30 +3,21 @@
 @section('content')
     <div class=" uk-container ">
         <ul class="uk-breadcrumb uk-margin-top">
-            <li>
-                <a href="https://www.venetacucine.com/en">Home</a>
-            </li>
-            <li>
-                <span>Project at ...'s house</span>
-            </li>
+            <li><a href="https://www.venetacucine.com/en">Home</a></li>
+            <li><span>Project at ...'s house</span></li>
         </ul>
         <div class="uk-grid">
             <div class=" uk-width-1-1 ">
                 <div data-reactive=""></div>
 
-                <section class="stories-intro uk-background-cover"
-                         data-src="/frontend/images/racconti/racconti-bg-01.jpg?id=d530991e67d58ea87ff5" uk-img=""
-                         style="background-image: url(&quot;https://www.venetacucine.com/frontend/images/racconti/racconti-bg-01.jpg?id=d530991e67d58ea87ff5&quot;);">
+                <section class="stories-intro uk-background-cover" data-src="/frontend/images/racconti/racconti-bg-01.jpg?id=d530991e67d58ea87ff5" uk-img="" style="background-image: url(&quot;https://www.venetacucine.com/frontend/images/racconti/racconti-bg-01.jpg?id=d530991e67d58ea87ff5&quot;);">
                     <div class="uk-container">
                         <div class="uk-flex-middle uk-grid-large@m uk-grid" uk-grid="">
                             <div class="uk-width-1-2@l uk-flex-last@l">
                                 <div class="stories-intro__content uk-flex uk-flex-center">
                                     <div class="uk-width-3-4@xl">
                                         <figure class="stories-intro__logo">
-                                            <img
-                                                data-src="/frontend/images/logos/logo-racconti-di-vita.jpg?id=3a9593fbf1abb6e000ce"
-                                                alt="Project at ...&#39;s house" uk-img=""
-                                                src="index_files/logo-racconti-di-vita.jpg">
+                                            <img data-src="/frontend/images/logos/logo-racconti-di-vita.jpg?id=3a9593fbf1abb6e000ce" alt="Project at ...&#39;s house" uk-img="" src="index_files/logo-racconti-di-vita.jpg">
                                         </figure>
                                         <p class="stories-intro__text uk-text-large">The kitchen is a place of real
                                             life, it
@@ -36,14 +27,10 @@
                                             us!</p>
                                         <ul class="stories-intro__button-group button-group uk-width-1-1">
                                             <li>
-                                                <a href="https://www.venetacucine.com/en/project-at-s-house#racconti"
-                                                   class="uk-button button-outline" uk-scroll="">Find out the
-                                                    projects</a>
+                                                <a href="https://www.venetacucine.com/en/project-at-s-house#racconti" class="uk-button button-outline" uk-scroll="">Find out the projects</a>
                                             </li>
                                             <li>
-                                                <a uk-toggle="" target="#racconti-form"
-                                                   class="uk-button uk-button-primary">Send
-                                                    us your project</a>
+                                                <a uk-toggle="" target="#racconti-form" class="uk-button uk-button-primary">Send us your project</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -52,44 +39,25 @@
                             <div class="uk-width-1-2@l uk-visible@l uk-first-column">
                                 <div class="stories-banner">
                                     <div class="stories-banner__media">
-                                        <img
-                                            data-src="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg"
-                                            data-srcset="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 640w, index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 960w"
-                                            data-sizes="(min-width: 640px) 960px, 100vw" alt="Slide1" uk-img=""
-                                            sizes="(min-width: 640px) 960px, 100vw"
-                                            srcset="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 640w, index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 960w"
-                                            src="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg">
+                                        <img data-src="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg" data-srcset="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 640w, index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 960w" data-sizes="(min-width: 640px) 960px, 100vw" alt="Slide1" uk-img="" sizes="(min-width: 640px) 960px, 100vw" srcset="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 640w, index_files/1ba393ade728f4e1c7325b650a0099f9.jpg 960w" src="index_files/1ba393ade728f4e1c7325b650a0099f9.jpg">
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </section>
-                <section class="stories-intro stories-intro_bg section section_expanded"
-                         data-src="/frontend/images/racconti/racconti-drawing-bg-01.jpg?id=1bb2e4076abae592a597"
-                         uk-img=""
-                         style="background-image: url(&quot;https://www.venetacucine.com/frontend/images/racconti/racconti-drawing-bg-01.jpg?id=1bb2e4076abae592a597&quot;);">
+                <section class="stories-intro stories-intro_bg section section_expanded" data-src="/frontend/images/racconti/racconti-drawing-bg-01.jpg?id=1bb2e4076abae592a597" uk-img="" style="background-image: url(&quot;https://www.venetacucine.com/frontend/images/racconti/racconti-drawing-bg-01.jpg?id=1bb2e4076abae592a597&quot;);">
                     <div class="uk-container">
                         <div class="uk-flex-middle uk-grid-large@m uk-grid" uk-grid="">
                             <div class="uk-width-1-2@l uk-flex-last@l">
                                 <div class="stories-banner">
-                                    <div class="stories-banner__media uk-scrollspy-inview uk-animation-fade"
-                                         uk-scrollspy=""
-                                         cls="uk-animation-fade" style="">
-                                        <img
-                                            data-src="index_files/racconti-intro-02.jpg"
-                                            data-srcset="index_files/racconti-intro-02.jpg 640w, index_files/racconti-intro-02.jpg 960w"
-                                            data-sizes="(min-width: 640px) 960px, 100vw"
-                                            alt="Project at ...&#39;s house"
-                                            uk-img="" sizes="(min-width: 640px) 960px, 100vw"
-                                            srcset="index_files/racconti-intro-02.jpg 640w, index_files/racconti-intro-02.jpg 960w"
-                                            src="index_files/racconti-intro-02.jpg">
+                                    <div class="stories-banner__media uk-scrollspy-inview uk-animation-fade" uk-scrollspy="" cls="uk-animation-fade" style="">
+                                        <img data-src="index_files/racconti-intro-02.jpg" data-srcset="index_files/racconti-intro-02.jpg 640w, index_files/racconti-intro-02.jpg 960w" data-sizes="(min-width: 640px) 960px, 100vw" alt="Project at ...&#39;s house" uk-img="" sizes="(min-width: 640px) 960px, 100vw" srcset="index_files/racconti-intro-02.jpg 640w, index_files/racconti-intro-02.jpg 960w" src="index_files/racconti-intro-02.jpg">
                                     </div>
                                 </div>
                             </div>
                             <div class="uk-width-1-2@l uk-first-column">
-                                <div class="uk-text-large uk-scrollspy-inview uk-animation-fade" uk-scrollspy=""
-                                     cls="uk-animation-fade" delay="300" style="">
+                                <div class="uk-text-large uk-scrollspy-inview uk-animation-fade" uk-scrollspy="" cls="uk-animation-fade" delay="300" style="">
                                     <p class="uk-margin-small-bottom">Our life stories are authentic stories,
                                         illustrated
                                         and written stories. "Normal" people who have something special and unique to

@@ -1,0 +1,39 @@
+$(document).ready(function(){
+		$("headertab").hide();
+
+$(window).on('scroll', function() {
+    var y_scroll_pos = window.pageYOffset;
+    var scroll_pos_test = 100;
+
+    if(y_scroll_pos > scroll_pos_test) {
+$("header").stop(false).animate({height:'60px'},300);
+$(".logo").stop(false).animate({height:'50px',paddingTop:'5px'},300);
+$(".ven").stop(false).animate({height:'50px',paddingTop:'5px'},300);
+$("bar").stop(false).animate({marginTop:'0px'},300);
+$(".attree").stop(false).animate({top:'62px'},300);
+    }else{
+$("header").stop(false).animate({height:'110px'},300);
+$(".logo").stop(false).animate({height:'90px',paddingTop:'15px'},300);
+$(".ven").stop(false).animate({height:'95px',paddingTop:'15px'},300);
+$("bar").stop(false).animate({marginTop:'50px'},300);
+$(".attree").stop(false).animate({top:'112px'},300);
+}
+});
+	
+    $("#submitf").click(function(){
+		location.replace("terminbuchen1.php");
+	});		
+	
+	
+	
+    $("#more").click(function(){
+		var element = document.getElementById("myDIV");
+		element.classList.remove("insth");
+        $(".inst").animate({height: 'auto'});
+	    $("#more").hide();
+    });
+	
+	$("#menu").click(function(){
+		$("headertab").toggle(500);
+    });
+});

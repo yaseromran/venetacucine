@@ -3,15 +3,9 @@
 @section('content')
     <div class=" uk-container ">
         <ul class="uk-breadcrumb uk-margin-top">
-            <li>
-                <a href="/">Home</a>
-            </li>
-            <li>
-                <a href="/kitchens">Kitchens</a>
-            </li>
-            <li>
-                <span>Lounge</span>
-            </li>
+            <li><a href="/">Home</a></li>
+            <li><a href="/kitchens">Kitchens</a></li>
+            <li><span>Lounge</span></li>
         </ul>
         <div class="uk-grid">
             <div class=" uk-width-1-1 ">

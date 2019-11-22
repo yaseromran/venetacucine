@@ -20,3 +20,5 @@ Route::get('/living', "livingController@living");
 Route::get('/project-at-s-house', "projectatshouseController@projectatshouse");
 
 Route::get('/kitchen-detail', "projectatshouseController@projectatshouse");
+
+Route::get('/book', "bookController@book");

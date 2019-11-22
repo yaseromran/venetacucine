@@ -2475,8 +2475,8 @@
                         <ul class="uk-navbar-nav uk-visible@l navbar-nav" data-slug="main">
                             <li class=""><a href="/kitchens">Kitchens</a></li>
                             <li class=""><a href="/living">Living</a></li>
-                            <li class=""><a href="/add-more">Tables and Chairs</a></li>
-                            <li class=""><a aria-expanded="false" class="">Dealers</a>
+                            <li class=""><a href="/studio">Studio</a></li>
+                            {{--<li class=""><a aria-expanded="false" class="">Dealers</a>
                                 <div class="uk-navbar-dropdown uk-navbar-dropdown-bottom-left uk-animation-fade uk-animation-enter" style="left: 882.719px; top: 88px; animation-duration: 200ms;">
                                     <ul class="uk-navbar-dropdown-nav uk-nav-parent-icon uk-nav" uk-nav="">
                                         <li class=" "><a href="/store-locator/italy">Italy</a></li>
@@ -2484,8 +2484,8 @@
                                         <li class=" "><a href="/dealers-initiatives">Dealers Initiatives</a></li>
                                     </ul>
                                 </div>
-                            </li>
-                            <li class=""><a href="/news">News</a></li>
+                            </li>--}}
+                            <li class=""><a href="/book">Book</a></li>
                         </ul>
                         <ul class="uk-navbar-nav navbar-iconnav">
                             <li>

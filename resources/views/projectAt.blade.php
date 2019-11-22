@@ -47,6 +47,7 @@
                         </div>
                     </div>
                 </section>
+
                 <section class="stories-intro stories-intro_bg section section_expanded" data-src="/frontend/images/racconti/racconti-drawing-bg-01.jpg?id=1bb2e4076abae592a597" uk-img="" style="background-image: url(&quot;https://www.venetacucine.com/frontend/images/racconti/racconti-drawing-bg-01.jpg?id=1bb2e4076abae592a597&quot;);">
                     <div class="uk-container">
                         <div class="uk-flex-middle uk-grid-large@m uk-grid" uk-grid="">

@@ -1,7 +1,6 @@
 @extends('layouts.app')
 
 @section('content')
-
     <div class=" uk-container ">
         <ul class="uk-breadcrumb uk-margin-top">
             <li><a href="https://www.venetacucine.com/en">Home</a></li>

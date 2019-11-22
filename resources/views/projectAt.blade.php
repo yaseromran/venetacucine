@@ -7,7 +7,6 @@
             <li><a href="https://www.venetacucine.com/en">Home</a></li>
             <li><span>Project at ...'s house</span></li>
         </ul>
-
         <div class="uk-grid">
             <div class=" uk-width-1-1 ">
                 <div data-reactive=""></div>

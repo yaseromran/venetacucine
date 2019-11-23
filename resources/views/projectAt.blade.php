@@ -9,7 +9,6 @@
         <div class="uk-grid">
             <div class=" uk-width-1-1 ">
                 <div data-reactive=""></div>
-
                 <section class="stories-intro uk-background-cover" data-src="/frontend/images/racconti/racconti-bg-01.jpg?id=d530991e67d58ea87ff5" uk-img="" style="background-image: url(&quot;https://www.venetacucine.com/frontend/images/racconti/racconti-bg-01.jpg?id=d530991e67d58ea87ff5&quot;);">
                     <div class="uk-container">
                         <div class="uk-flex-middle uk-grid-large@m uk-grid" uk-grid="">
